@@ -107,7 +107,7 @@ const closeMenu = () => {
           <div class="hero-content">
             <div class="availability">
               <span class="status-dot"></span>
-              SOFTWARE DEVELOPMENT & TECHNOLOGY
+              SOFTWARE DEVELOPMENT &amp; TECHNOLOGY
             </div>
 
             <p class="eyebrow">HELLO, I'M</p>
@@ -336,7 +336,7 @@ const closeMenu = () => {
       <section id="leadership" class="section">
         <div class="container leadership-grid">
           <div>
-            <p class="eyebrow">05 / LEADERSHIP & SERVICE</p>
+            <p class="eyebrow">05 / LEADERSHIP &amp; SERVICE</p>
             <h2 class="section-title">
               Leading with purpose<span class="text-accent">.</span>
             </h2>
@@ -388,7 +388,7 @@ const closeMenu = () => {
               <div class="leadership-icon">04</div>
               <div>
                 <h3>Community engagement</h3>
-                <p class="leadership-role">Service & collaboration</p>
+                <p class="leadership-role">Service &amp; collaboration</p>
                 <p>
                   Interested in initiatives that promote education,
                   inclusion, community development, and meaningful
@@ -439,7 +439,7 @@ const closeMenu = () => {
           <span class="brand-mark">R</span>
           <span>Rashid<span class="brand-dot">.</span></span>
         </a>
-        <p>Designed and developed with Vue.js & Nuxt.</p>
+        <p>Designed and developed with Vue.js &amp; Nuxt.</p>
         <a href="#home" class="back-top">Back to top ↑</a>
       </div>
       <div class="container copyright">
