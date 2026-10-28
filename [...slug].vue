@@ -2,9 +2,9 @@
 import { ref } from 'vue'
 
 useSeoMeta({
-  title: 'Rashid Ismael Rashid | Aspiring Software Developer',
+  title: 'Rashid Ismael Rashid  Software Developer',
   description:
-    'Meet Rashid Ismael Rashid, an Applied Computer Technology student exploring software development, practical technology, and community leadership.',
+    'my name is  Rashid Ismael Rashid, an Applied Computer Technology student exploring software development, cyber security, and community leadership.',
 })
 
 const menuOpen = ref(false)
@@ -107,7 +107,7 @@ const closeMenu = () => {
           <div class="hero-content">
             <div class="availability">
               <span class="status-dot"></span>
-              SOFTWARE DEVELOPMENT & TECHNOLOGY
+              SOFTWARE DEVELOPER & CYBER SECURITY
             </div>
 
             <p class="eyebrow">HELLO, I'M</p>
@@ -117,8 +117,8 @@ const closeMenu = () => {
             </h1>
 
             <h2>
-              Aspiring Software Developer
-              <span class="muted-heading">&amp; Technology Enthusiast</span>
+              A Software Developer
+              <span class="muted-heading">&amp; Cyber Security Enthusiast</span>
             </h2>
 
             <p class="hero-description">
@@ -214,7 +214,7 @@ const closeMenu = () => {
             <div>
               <p class="eyebrow">02 / SELECTED WORK</p>
               <h2 class="section-title">
-                Projects I've <span class="text-accent">explored.</span>
+                Projects I've <span class="text-accent">built.</span>
               </h2>
             </div>
             <p class="section-intro">
@@ -253,10 +253,12 @@ const closeMenu = () => {
             </article>
           </div>
 
-          <p class="section-footnote">
-            Project descriptions are summaries. Add your GitHub repositories,
-            screenshots, and live demos when they are ready.
-          </p>
+          <!--
+<p class="section-footnote">
+  Project descriptions are summaries. Add your GitHub repositories,
+  screenshots, and live demos when they are ready.
+</p>
+-->
         </div>
       </section>
 
@@ -288,10 +290,12 @@ const closeMenu = () => {
             </article>
           </div>
 
-          <p class="skills-note">
-            This list represents technologies and topics I have studied or
-            explored. Update it to reflect your current practical proficiency.
-          </p>
+          <!--
+<p class="skills-note">
+  This list represents technologies and topics I have studied or
+  explored. Update it to reflect your current practical proficiency.
+</p>
+-->
         </div>
       </section>
 
@@ -334,8 +338,8 @@ const closeMenu = () => {
       </section>
 
       <section id="leadership" class="section">
-        <div class="container leadership-grid">
-          <div>
+      <div class="container leadership-grid">
+    <div>
             <p class="eyebrow">05 / LEADERSHIP & SERVICE</p>
             <h2 class="section-title">
               Leading with purpose<span class="text-accent">.</span>
