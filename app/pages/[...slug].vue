@@ -107,7 +107,7 @@ const closeMenu = () => {
           <div class="hero-content">
             <div class="availability">
               <span class="status-dot"></span>
-              SOFTWARE DEVELOPMENT &amp; TECHNOLOGY
+              SOFTWARE DEVELOPER &amp; CYBER SECURITY
             </div>
 
             <p class="eyebrow">HELLO, I'M</p>
@@ -117,8 +117,8 @@ const closeMenu = () => {
             </h1>
 
             <h2>
-              Aspiring Software Developer
-              <span class="muted-heading">&amp; Technology Enthusiast</span>
+              A Software Developer
+              <span class="muted-heading">&amp; Cyber Security Enthusiast</span>
             </h2>
 
             <p class="hero-description">
@@ -253,10 +253,12 @@ const closeMenu = () => {
             </article>
           </div>
 
-          <p class="section-footnote">
-            Project descriptions are summaries. Add your GitHub repositories,
-            screenshots, and live demos when they are ready.
-          </p>
+         <!--
+<p class="section-footnote">
+  Project descriptions are summaries. Add your GitHub repositories,
+  screenshots, and live demos when they are ready.
+</p>
+-->
         </div>
       </section>
 
@@ -288,10 +290,12 @@ const closeMenu = () => {
             </article>
           </div>
 
-          <p class="skills-note">
-            This list represents technologies and topics I have studied or
-            explored. Update it to reflect your current practical proficiency.
-          </p>
+         <!--
+<p class="skills-note">
+  This list represents technologies and topics I have studied or
+  explored. Update it to reflect your current practical proficiency.
+</p>
+-->
         </div>
       </section>
 
