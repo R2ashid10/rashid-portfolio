@@ -214,7 +214,7 @@ const closeMenu = () => {
             <div>
               <p class="eyebrow">02 / SELECTED WORK</p>
               <h2 class="section-title">
-                Projects I've <span class="text-accent">explored.</span>
+                Projects I've <span class="text-accent">Built.</span>
               </h2>
             </div>
             <p class="section-intro">
